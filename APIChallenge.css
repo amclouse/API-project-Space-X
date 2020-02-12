@@ -1,0 +1,48 @@
+body {
+    background-image: url('https://s.yimg.com/uu/api/res/1.2/DZ6RES4ZJYZw6BwCoFM1mw--~B/dz0wO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en-US/homerun/motleyfool.com/e1068b73eb1508c7ba65b7fca8880c42');
+    background-size: auto;
+    height: 100%;
+    width: 100%;
+    margin: auto;
+    padding: 0px;
+    z-index: -1;
+    font-family: 'Space Mono', monospace;
+    align-items: center;
+    color: whitesmoke;
+}
+
+.h1 {
+    
+    text-align: center;
+    color: white;
+    z-index: 1;
+    font-size: 75px;
+    text-align: center;
+    font-family: 'Space Mono', monospace;
+}
+
+#button {
+    height: 45px;
+    width: 70px;
+    color: white;
+    border-radius: 10%;
+    background-color: black;
+    font-family: 'Space Mono', monospace;
+    font-weight: bold;
+    align-items: center;
+    text-align: center;
+}
+#search {
+    width: 500px;
+    height: 40px;
+}
+#search :hover {
+    color: blue;
+}
+.section {
+    align-items: center;
+    margin: 100px;
+}
+.p1 {
+    text-align: center;
+}
